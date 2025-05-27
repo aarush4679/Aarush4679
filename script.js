@@ -10,7 +10,7 @@ window.addEventListener("scroll", () => {
     } else if (scrollProgress < 0.66) {
         image.src = "images/image2.jpg";
     } else {
-        image.src = "images/image3.jpg";
+        image.src = "images/image3.jpeg";
     }
 
     // Optional: Add a zoom or rotation effect
